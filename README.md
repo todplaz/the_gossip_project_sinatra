@@ -1,0 +1,1 @@
+Nous essaierons dans ce repo de faire une application qui gère les potins de différentes personnes.
